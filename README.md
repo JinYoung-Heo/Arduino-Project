@@ -1,4 +1,4 @@
-# 귀중품 찾기
+# 귀중품 지킴이
 * ## 작동 원리
 <img src="https://i.imgur.com/4j29QRo.jpg" width="900px" height="500px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 <img src="https://i.imgur.com/JhFjo1I.jpg" width="900px" height="500px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
